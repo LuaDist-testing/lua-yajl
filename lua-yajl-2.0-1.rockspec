@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "lua-yajl"
-version = "1.3-1"
+version = "2.0-1"
+-- LuaDist source
 source = {
-	url = "git://github.com/brimworks/lua-yajl.git",
-	branch = "v1.3",
+  tag = "2.0-1",
+  url = "git://github.com/LuaDist-testing/lua-yajl.git"
 }
+-- Original source
+-- source = {
+-- 	url = "git://github.com/brimworks/lua-yajl.git",
+-- 	branch = "v2.0",
+-- }
 description = {
 	summary = "Integrate the yajl JSON library with Lua.",
 	homepage = "http://github.com/brimworks/lua-yajl",
